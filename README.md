@@ -1,3 +1,5 @@
+Davi Okano E isabelli cunha de melo
+
 obs sobre o git:
 1 - Não tinha a pasta em casa, só um arquivo referente ao projeto. Quando tiver no lab eu subo o resto do projeto. 
 2 - Não uso windows, mas sim linux ubuntu, onde não existe o "git bash". Isso ocorre, pois o git bash é um terminal 
